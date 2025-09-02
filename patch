@@ -6,4 +6,4 @@
 - Improved patch download speed
 - Updated graphics engine for better performance
 </News>
-<Path>https://raw.githubusercontent.com/djminio/Drserver/main/patchfiles/patch_v1.2.zip</Path>
+<Path>https://github.com/madler/zlib/archive/refs/heads/master.zip</Path>
