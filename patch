@@ -1,4 +1,4 @@
 <Title>Patch v1.0</Title>
 <Date>2025-09-02</Date>
 <News>Fixed bugs and improved stability</News>
-<Path>https://yourserver.com/patch.zip</Path>
+<Path>https://github.com/madler/zlib/archive/refs/heads/master.zip</Path>
