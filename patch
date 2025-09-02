@@ -1,8 +1,9 @@
-<Title>Patch v1.0</Title>
+<Title>Patch v1.2: Bug Fixes & Improvements</Title>
 <Date>2025-09-02</Date>
-<News>Fixed bugs and improved stability Fixed bugs and improved stability
-Fixed bugs and improved stability
-Fixed bugs and improved stability
-</News>
-<Path>https://github.com/madler/zlib/archive/refs/heads/master.zip</Path>
 <Version>1.2</Version>
+<News>
+- Fixed login crash on some systems
+- Improved patch download speed
+- Updated graphics engine for better performance
+</News>
+<Path>https://raw.githubusercontent.com/djminio/Drserver/main/patchfiles/patch_v1.2.zip</Path>
